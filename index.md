@@ -3,7 +3,7 @@
 Diese Seiten sollen die German Zero Gruppen unterstützen die 
 
 ## Klimaplan
-[Klimaplan](https://cd-reloaded.github.com/gz/Klimaplan/Klimaplan.html)
+[Klimaplan](https://cd-reloaded.github.io/gz/Klimaplan/Klimaplan.html)
 ```markdown
 Syntax highlighted code block
 
