@@ -3,26 +3,12 @@
 Diese Seiten sollen die German Zero Gruppen unterstützen die 
 
 ## Klimaplan
-[Klimaplan](https://cd-reloaded.github.io/gz/Klimaplan/Klimaplan.html)
-```markdown
-Syntax highlighted code block
+- [Klimaplan](https://cd-reloaded.github.io/gz/Klimaplan/Klimaplan.html)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Übersichtskarten
+ - [Wahlkreise (Test-Service)](https://cd-reloaded.github.io/gz/Wahlkreise/index.html) und ![Testbild](https://cd-reloaded.github.io/gz/Wahlkreise/2021-02-14 15_24_46-Deutschland_Wahlkreise.png)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
